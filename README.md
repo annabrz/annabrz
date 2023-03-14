@@ -24,5 +24,9 @@ Connect with me
 
 
 Blogs
-	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+
+
 https://medium.com/@ayvazyananna/setting-up-a-rails-back-end-4b5bf52a0105
