@@ -30,3 +30,6 @@ Blogs
 
 
 https://medium.com/@ayvazyananna/setting-up-a-rails-back-end-4b5bf52a0105
+https://medium.com/@ayvazyananna/active-record-migrations-390ecbfbc1dd
+https://medium.com/@ayvazyananna/introducing-usestate-and-useeffect-in-react-8abbce4f3d60
+https://medium.com/@ayvazyananna/looping-for-beginners-9f967e41d5d8
