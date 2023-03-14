@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Connect with me
+
+
+
+
+Blogs
+https://medium.com/@ayvazyananna/setting-up-a-rails-back-end-4b5bf52a0105
