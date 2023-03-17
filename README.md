@@ -10,7 +10,7 @@
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 - 📫 How to reach me: ayvazyananna@yahoo.com
-- ⚡ Fun fact: I love to track my car and canyon my car. I'm also a travelholic! 
+- ⚡ Fun fact: I love to track and canyon my car. I'm also a travelholic! 
 
 
 
