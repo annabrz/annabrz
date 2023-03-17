@@ -1,4 +1,4 @@
- Hi there 👋 My name is Anna!
+ Hi there 👋 My name is Anna! I'm a software engineer with experience in Ruby on Rails and Javascript based programming.
 
 <!-- 
 **annabrz/annabrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
